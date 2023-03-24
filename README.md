@@ -3,7 +3,7 @@
 <h5 align="left">A dedicated Ai student at IAU, ... finally living the dream 🦾</h5>
 
 - 🔭 Currently working on **Automated diagnosis and triage of patients with potential heart disease using ML**
-- Starting my **3D design journey with Blender.**
+- 💻 Starting my **3D design journey with Blender.**
 - ⚡ Interested in **Books, Puzzles, Programming ,Design and Photography!**
 - 📄 To know more about me [https://flowcv.me/fatima-algharash](https://flowcv.me/fatima-algharash)
 - 📫 How to reach me **fatima.habib.hl@gmail.com**
