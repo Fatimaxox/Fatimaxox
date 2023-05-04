@@ -5,7 +5,7 @@
 - 🔭 Currently working on **Brain Tumor Detection and Classification on MRI images using Image processing techniques and Pretrained Deep learning model** & **Automated diagnosis and triage of patients with potential heart disease using ML**
 - 💻 Starting my **3D design journey with Blender.**
 - ⚡ Interested in **Books, Puzzles, Programming ,Design and Photography!**
-- 📄 To know more about me [https://flowcv.me/fatima-algharash](https://flowcv.me/fatima-algharash)
+- 📄 To know more about me [https://www.tima-prot.com/](https://www.tima-prot.com/)
 - 📫 How to reach me **fatima.habib.hl@gmail.com**
 
 <h5 align="left">Connect with me:</h5>
