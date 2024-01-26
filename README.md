@@ -2,8 +2,8 @@
 
 <h5 align="left">A dedicated Ai student at IAU, ... finally living the dream 🦾</h5>
 
-- 🔭 Currently working on **Brain Tumor Detection and Classification on MRI images using Image processing techniques and Pretrained Deep learning model** & **Automated diagnosis and triage of patients with potential heart disease using ML**
-- 💻 Starting my **3D design journey with Blender.**
+- 🔭 Beginning my journey with a lot of exploration and enthusiasm!
+- 💻 Currently working on **Uncovering Multiple Sclerosis Heterogeneity: AI-Enabled Lesion Segmentation and Subgroup Analysis**
 - ⚡ Interested in **Books, Puzzles, Programming ,Design and Photography!**
 - 📄 To know more about me [https://www.tima-prot.com/](https://www.tima-prot.com/)
 - 📫 How to reach me **fatima.habib.hl@gmail.com**
