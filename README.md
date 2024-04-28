@@ -3,7 +3,7 @@
 <h5 align="left"> A passionate AI enthusiast at IAU, ... making dreams a reality 🦾</h5>
 
 - 🔭 Embarking on my journey with abundant exploration and enthusiasm!
-- 💻 Currently working on building MS-related solutions using deep learning.
+- 💻 Currently working on **building MS-related solutions using deep learning**.
 - ⚡ Interested in books, puzzles, programming, design, and photography!
 - 📄 To learn more about me, visit <a href="https://www.tima-prot.com/">https://www.tima-prot.com/</a>
 - 📫 Reach me at <b>fatima.habib.hl@gmail.com</b>
