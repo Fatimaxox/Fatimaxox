@@ -1,16 +1,16 @@
-<h1 align="left"> Hi, Welcome! I'm Fatima  ☾ </h1>
+<h1 align="left"> Hi ! I'm Fatima ☾ </h1>
 
-<h5 align="left">A dedicated Ai student at IAU, ... finally living the dream 🦾</h5>
+<h5 align="left"> A passionate AI enthusiast at IAU, ... making dreams a reality 🦾</h5>
 
-- 🔭 Beginning my journey with a lot of exploration and enthusiasm!
-- 💻 Currently working on **Uncovering Multiple Sclerosis Heterogeneity: AI-Enabled Lesion Segmentation and Subgroup Analysis**
-- ⚡ Interested in **Books, Puzzles, Programming ,Design and Photography!**
-- 📄 To know more about me [https://www.tima-prot.com/](https://www.tima-prot.com/)
-- 📫 How to reach me **fatima.habib.hl@gmail.com**
+- 🔭 Embarking on my journey with abundant exploration and enthusiasm!
+- 💻 Currently working on building MS-related solutions using deep learning.
+- ⚡ Interested in books, puzzles, programming, design, and photography!
+- 📄 To learn more about me, visit <a href="https://www.tima-prot.com/">https://www.tima-prot.com/</a>
+- 📫 Reach me at <b>fatima.habib.hl@gmail.com</b>
 
 <h5 align="left">Connect with me:</h5>
 <p align="left">
-<a href="https://linkedin.com/in/fatima algharash/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatima algharash" height="20" width="30" /></a>
+<a href="https://www.linkedin.com/in/fatima-algharash-91505b26a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatima-algharash" height="20" width="30" /></a>
 <a href="https://kaggle.com/fatima001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fatima001" height="20" width="30" /></a>
 </p>
 <h5 align="left">Languages and Tools:</h5>
